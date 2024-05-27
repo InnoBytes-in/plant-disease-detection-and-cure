@@ -1,0 +1,191 @@
+{
+    "0": 
+    {
+        "name": "Southern Ag Captan 50% WP Fungicide, 8 Oz",
+        "image": "https://m.media-amazon.com/images/I/41yPQI9-wTL._SX342_SY445_QL70_FMwebp_.jpg",
+        "chemicalCompound": "Captan",
+        "manufacturer": "Southern Ag",
+        "targetDisease": ["Apple Black Rot", "Grape Isariopsis Leaf spot"],
+        "targetPlant": ["Apple", "Grape"]
+    },
+    "1": 
+    {
+        "name": "Katyayani Azoxy AZOXYSTROBIN 23% SC Highly Systemic Fungicide",
+        "image": "https://m.media-amazon.com/images/I/71C8ZzTNO8L._SY445_.jpg",
+        "chemicalCompound": "AZOXYSTROBIN ",
+        "manufacturer": "Katyayani",
+        "targetDisease": ["Apple Black Rot", "Citrus Black Spot", "Corn Northern Leaf Blight", "Potato Early Blight"],
+        "targetPlant": ["Apple", "Citrus", "Corn", "Potato"]
+    },
+    "2": 
+    {
+        "name": "Mankind Agritech Mycloneed Myclobutanil 10% WP Fungicide",
+        "image": "https://mankindag.com/wp-content/uploads/2022/10/Mycloneed.png",
+        "chemicalCompound": "Myclobutanil",
+        "manufacturer": "Mankind Agritech",
+        "targetDisease": ["Apple Scab", "Cedar Apple Rust", "Grape Isariopsis Leaf spot", "Strawberry Leaf Scorch"],
+        "targetPlant": ["Apple", "Grape", "Strawberry"]
+    },
+    "3": 
+    {
+        "name": "Bonide Products Copper Fungicide, Spray Bottle, 32-oz",
+        "image": "https://m.media-amazon.com/images/I/916bv5w1t6L._SX425_.jpg",
+        "chemicalCompound": "Copper Octanoate",
+        "manufacturer": "Bonide",
+        "targetDisease": ["Apple Scab"],
+        "targetPlant": ["Apple"]
+    },
+    "4": 
+    {
+        "name": "AMISTAR - Azoxystrobin 22.94 % WW - 500 ML",
+        "image": "https://agroshopy.com/image/cache/catalog/AMISTAR-228x228.jpg",
+        "chemicalCompound": "Strobilurin fungicides ( Azoxystrobin, Pyraclostrobin and Trif'loxystrobin)",
+        "manufacturer": "Syngenta",
+        "targetDisease": ["Citrus Black spot"],
+        "targetPlant": ["Citrus"]
+    },
+    "5": 
+    {
+        "name": "Patil Biotech Private Limited Calnate Calcium Nitrate Water Soluble Fertilizer, 1 Kg",
+        "image": "https://m.media-amazon.com/images/I/51PehYHiujL._SY445_.jpg",
+        "chemicalCompound": "Calcium Nitrate",
+        "manufacturer": "Patil Biotech Pvt. Ltd.",
+        "targetDisease": ["Citrus Greening"],
+        "targetPlant": ["Citrus"]
+    },
+    "6": 
+    {
+        "name": "Mancozeb 75% WP Contact Fungicides, Packet, 500gm",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/VK/HC/LK/103928885/new-product-500x500.jpeg",
+        "chemicalCompound": "Mancozeb",
+        "manufacturer": "KUNJ FERTILIZERS PRIVATE LIMITED",
+        "targetDisease": ["Corn Common Rust", "Corn Northern Leaf Blight", "Grape Black Rot", "Potato Early Blight", "Potato Late Blight", "Tomato Early blight", "Tomato Late blight", "Tomato Leaf Mold", "Tomato Septoria leaf spot", "Tomato Target Spot", "Wheat stripe rust"],
+        "targetPlant": ["Corn", "Grape", "Potato", "Tomato", "Wheat"]
+    },
+    "7": 
+    {
+        "name": "Fungicide Pyraclostrobin 250g/L EC 30% SC",
+        "image": "https://cdn.globalso.com/engebiotech/121-300x300.jpg",
+        "chemicalCompound": "Pyraclostrobin",
+        "manufacturer": "ENGE",
+        "targetDisease": ["Corn Common Rust", "Corn Gray Leaf Spot", "Corn Northern Leaf Blight", "Potato Early Blight", "Tomato Early blight"],
+        "targetPlant": ["Apple", "Grape"]
+    },
+    "8": 
+    {
+        "name": "Katyayani Pyraclostrobin 10% CS DEFENDER CS-Fungicides",
+        "image": "https://www.katyayaniorganics.com/wp-content/uploads/2022/06/DEFENDER-CS.png",
+        "chemicalCompound": "Pyraclostrobin",
+        "manufacturer": "Katyayani",
+        "targetDisease": ["Corn Common Rust", "Corn Gray Leaf Spot", "Corn Northern Leaf Blight", "Potato Early Blight", "Tomato Early blight"],
+        "targetPlant": ["Corn", "Potato", "Tomato"]
+    },
+    "9": 
+    {
+        "name": "Syngenta Cuman (Ziram 27% ) Fungicide",
+        "image": "https://www.agriplexindia.com/cdn/shop/products/Cuman.png?v=1678107125",
+        "chemicalCompound": "Ziram",
+        "manufacturer": "Syngenta",
+        "targetDisease": ["Grape Black Rot", "Potato Early Blight", "Tomato Early blight"],
+        "targetPlant": ["Grape", "Potato", "Tomato"]
+    },
+    "10": 
+    {
+        "name": "Fludioxonil 4L ST",
+        "image": "https://www.albaughllc.com/images/unitedstateslibraries/productimages/seed-treatment/albaugh_1gal_fludioxonil4lst.png?sfvrsn=83840d16_1",
+        "chemicalCompound": "Fludioxonil",
+        "manufacturer": "Alibaugh LLC",
+        "targetDisease": ["Grape Isariopsis Leaf spot"],
+        "targetPlant": ["Grape"]
+    },
+    "11": 
+    {
+        "name": "Dron Azoxystrobin 18.2% + Difenoconazole 11.4% SC Systemic Fungicide (1 liter) - KUL",
+        "image": "https://m.media-amazon.com/images/I/61Ra-VyJfLL._SL1500_.jpg",
+        "chemicalCompound": "Difenoconazole",
+        "manufacturer": "KUNJ FERTILIZERS PRIVATE LIMITED",
+        "targetDisease": ["Potato Early Blight", "Tomato Early blight", "Wheat septoria"],
+        "targetPlant": ["Potato", "Tomato", "Wheat"]
+    },
+    "12": 
+    {
+        "name": "Kavach Syngenta Fungicides, Chlorothalonil 75% Wp, 250g",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/9/HZ/WZ/TT/143655691/kavach-syngenta-fungicides-500x500.jpg",
+        "chemicalCompound": "Chlorothalonil",
+        "manufacturer": "Syngenta",
+        "targetDisease": ["Potato Early Blight", "Potato Late Blight", "Strawberry Leaf Scorch", "Tomato Early blight", "Tomato Late blight", "Tomato Leaf Mold", "Tomato Septoria leaf spot", "Tomato Target Spot"],
+        "targetPlant": ["Potato", "Strawberry", "Tomato"]
+    },
+    "13": 
+    {
+        "name": "SPLASH - Chlorothalonil 75 WP - 250 GM",
+        "image": "https://agroshopy.com/image/cache/catalog/SPLASH-228x228.jpg",
+        "chemicalCompound": "Chlorothalonil",
+        "manufacturer": "Syngenta",
+        "targetDisease": ["Potato Early Blight", "Potato Late Blight", "Strawberry Leaf Scorch", "Tomato Early blight", "Tomato Late blight", "Tomato Leaf Mold", "Tomato Septoria leaf spot", "Tomato Target Spot"],
+        "targetPlant": ["Potato", "Strawberry", "Tomato"]
+    },
+    "14": 
+    {
+        "name": "Syngenta Revus (Mandipropamid 23.4 %) 160 ml",
+        "image": "https://static.agrostar.in/static/AGS-CP-795_1.jpg",
+        "chemicalCompound": "Mandiproamid",
+        "manufacturer": "Syngenta",
+        "targetDisease": ["Potato Early Blight", "Tomato Early blight", "Wheat septoria"],
+        "targetPlant": ["Potato", "Tomato", "Wheat"]
+    },
+    "15": 
+    {
+        "name": "Fluazinam 40SC Select™",
+        "image": "https://www.albaughllc.com/images/unitedstateslibraries/productimages/prime-source/albaughsp_2.5gal_fluazinam40sc1.png?sfvrsn=7aca57d2_1",
+        "chemicalCompound": "Fluazinam",
+        "manufacturer": "Alibaugh LLC",
+        "targetDisease": ["Potato Late Blight", "Tomato Late blight"],
+        "targetPlant": ["Potato", "Tomato"]
+    },
+    "16": 
+    {
+        "name": "JU Strepto Plus Streptomycin Sulphate 90% + Tetracycline Hydrochloride 10% SP",
+        "image": "https://m.media-amazon.com/images/I/41UXFn3dj+S._SY445_.jpg",
+        "chemicalCompound": "Streptomycin Sulfate + Tetracycline Hydrochloride",
+        "manufacturer": "Alibaugh LLC",
+        "targetDisease": ["Tomato Bacterial spot"],
+        "targetPlant": ["Tomato"]
+    },
+    "17": 
+    {
+        "name": "Bon-Neem II",
+        "image": "https://files.plytix.com/api/v1.1/file/public_files/pim/assets/43/37/8d/5e/5e8d3743202d9eba64d3af60/images/8d/c2/da/63/63dac28d1f86b54157c644b4/025_Front.jpg",
+        "chemicalCompound": "Pyrethrins, Piperonyl Butoxide (PBO)",
+        "manufacturer": "Bonide",
+        "targetDisease": ["Tomato Mosaic virus"],
+        "targetPlant": ["Tomato"]
+    },
+    "18": 
+    {
+        "name": "Garden Safe Insect Killer, Diatomaceous Earth, 1 Pack",
+        "image": "https://m.media-amazon.com/images/I/71K3uwB9XwL._AC_SX425_.jpg",
+        "chemicalCompound": "Diatomaceous Earth",
+        "manufacturer": "Garden Safe",
+        "targetDisease": ["Tomato Spider mites"],
+        "targetPlant": ["Tomato"]
+    },
+    "19": 
+    {
+        "name": "RALLIS Copper Oxychloride 50% WP Fungicide (500 GM)",
+        "image": "https://m.media-amazon.com/images/I/318QT6uDh5L._SX300_SY300_QL70_FMwebp_.jpg",
+        "chemicalCompound": "Copper Oxychloride 50% WP",
+        "manufacturer": "Tata",
+        "targetDisease": ["Tomato Mosaic virus"],
+        "targetPlant": ["Tomato"]
+    },
+    "20": 
+    {
+        "name": "ERGON - Kresoxim-methyl 44.3% W/w Sc (TATA RALLIES)",
+        "image": "https://hellocrop.in/wp-content/uploads/2021/09/ergon-1-small.png",
+        "chemicalCompound": "Pyrethrins, Piperonyl Butoxide (PBO)",
+        "manufacturer": "Tata",
+        "targetDisease": ["Wheat stripe rust"],
+        "targetPlant": ["Wheat"]
+    }
+}
