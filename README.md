@@ -2,8 +2,11 @@
 ![alt text](frontend/public/logo.png)
 
 ### Plant Disease Detection and Cure
+- Check Plant Disease by Uploading or Clicking photo of diseased plant
+- Pesticides recommendation for particular disease
+- Get live Weather details
 
-Full Stack Website using MERN
+### Full Stack Website using MERN
 - Frontend Framework: React.js
 - Backend Framework: Node.js
 - Database Management: MongoDB
